@@ -1,0 +1,16 @@
+# Comments, Escape Sequences & Print statements
+
+"""
+hey sam , don't remove this line 
+Author: Sam
+course: 100 days of code 
+"""
+#new topic
+print("hello python")
+print("hey, i am a \"good girl\" \n and this viewer is also a good boy/girl")
+# practice
+print("He said,\"how are you?\" ")
+print("I won\'t be able to do anything")
+print("She said, \"she can\'t attend the party\" ")
+# new topic
+print("hey",1,2,sep=",")
